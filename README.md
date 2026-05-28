@@ -1,4 +1,4 @@
-# bay-presets
+# PRACTISIM DESIGNER BAY PRESETS
 Repository for sharing bay preset json files for use in Practisim Designer.
 
 # HOW-TO
